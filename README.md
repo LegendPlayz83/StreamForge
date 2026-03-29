@@ -29,13 +29,13 @@ Features:
 | Name | Quantity | Cost | Link |
 |------|----------|------|------|
 | Akko Creamy Cyan | 108 | $44.99 | [Buy](https://stackskb.com/store/akko-creamy-cyan-switch-pack-of-45-pre-order/) |
-| Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar) | 1 | $20 | [Buy](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/) |
+| Durock Smokey Screw-In Stabilizers V2 (4+1 w/ 6.25u spacebar) | 1 | $25 | [Buy](https://stackskb.com/store/durock-smokey-screw-in-stabilizers-v2/) |
 | Womier Azure Eclipse Side Backlit Cherry PBT Keycap | 1 | $27 | [Buy](https://curiositycaps.in/products/flow-backlit-side-printed-cherry-pbt-keycap-set) |
 | Diode 1N4148 Through-Hole | 100 | $2.15 | [Buy](https://www.amazon.in/dp/B084ZP5BJ3) |
 | PCB - (Black Color) | 5 | $109.01 | [Buy](https://order.lioncircuits.com/) |
 | Raspberry Pi Pico | 1 | $7.40 | [Buy](https://www.amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB) |
 | Heatset and Screws | 1 | $5.00 | Amazon |
 | Case (top, mid, bot) | 1 | $5.00 | Printing Legion |
-| **Total** | | **$221.54** | |
+| **Total** | | **$226.54** | |
 
-The total costs come out to be $223
+The total costs come out to be $227
