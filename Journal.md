@@ -109,3 +109,13 @@ Place all the symbols in the schematic according to the 108-key layout. I had se
 Had to use ADC_VREF coz I was out of GPIO pins
 ![Screenshot 2026-04-01 at 7.54.25 PM](https://stasis.hackclub-assets.com/images/1775053469924-s5i2fn.png)
 
+
+# 2026-05-05: Writing firmware
+
+**Total time spent: 2.3 hours**
+
+Wrote the firmware according to the matrix of the keeb and pin funcions. 
+<img width="141" height="629" alt="Screenshot 2026-06-12 at 5 21 33 PM" src="https://github.com/user-attachments/assets/77a99700-fa91-4f35-8424-37dcb4b4e3c1" />
+
+
+<h3>Please note, since i am importing this old unsubmitted project, the times are of same day</h3>
