@@ -33,7 +33,7 @@ Features:
 | Womier Azure Eclipse Side Backlit Cherry PBT Keycap | 1 | $27 | [Buy](https://curiositycaps.in/products/flow-backlit-side-printed-cherry-pbt-keycap-set) |
 | Diode 1N4148 Through-Hole | 100 | $2.15 | [Buy](https://www.amazon.in/dp/B084ZP5BJ3) |
 | PCB - (Black Color) | 5 | $66 | [Buy](https://order.lioncircuits.com/) |
-| Raspberry Pi Pico | 1 | $7.40 | [Buy](https://www.amazon.in/Raspberry-Pi-Headers-Soldered-Micro/dp/B08WPNM7JB) |
+| Raspberry Pi Pico | 1 | $7.40 | [Buy](https://amzn.in/d/0dd5MeUx) |
 | Heatset and Screws | 1 | $0.00 | Amazon |
 | Case (top, mid, bot) | 1 | $0.00 | Printing Legion |
 | **Total** | | **$151.13** | |
